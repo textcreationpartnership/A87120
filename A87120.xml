@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the present state of things in and about the City, and Parliament, since the King and Queenes departure to Hampton Conrt [sic]. Wherein is contained, 1. The examination of His Majesties attourney generall by the House of Commons, ... 2. How 2 boats laden with great saddles to be carried down to Kingston, were staid, ... 3. A letter of dangerous consequence, directed to Colonell Lunsford, ... 4. Seven articles of high treason against the said Colonell Lunsford. 5. An order of both Houses for the speedy apprehension of the Lord Digby, and Colonell Lunsford, ... 6. The discovery of a hellish gun-powder plot in Ireland, ... Lastly the advice sent from His Maiesties commissioners, in Scotland, to both the Honourable Houses of Parliament, in England, Ianuary 15. 1642. ... Likewise that Colonel Lunsford was taken at Sr. Iohn Thorowgoods, ... Published, this 18. of Ianuary. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87120</idno>
+            <idno type="STC">Wing H79</idno>
+            <idno type="STC">Thomason E132_13</idno>
+            <idno type="STC">ESTC R22923</idno>
+            <idno type="EEBO-CITATION">99871862</idno>
+            <idno type="PROQUEST">99871862</idno>
+            <idno type="VID">156361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156361)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the present state of things in and about the City, and Parliament, since the King and Queenes departure to Hampton Conrt [sic]. Wherein is contained, 1. The examination of His Majesties attourney generall by the House of Commons, ... 2. How 2 boats laden with great saddles to be carried down to Kingston, were staid, ... 3. A letter of dangerous consequence, directed to Colonell Lunsford, ... 4. Seven articles of high treason against the said Colonell Lunsford. 5. An order of both Houses for the speedy apprehension of the Lord Digby, and Colonell Lunsford, ... 6. The discovery of a hellish gun-powder plot in Ireland, ... Lastly the advice sent from His Maiesties commissioners, in Scotland, to both the Honourable Houses of Parliament, in England, Ianuary 15. 1642. ... Likewise that Colonel Lunsford was taken at Sr. Iohn Thorowgoods, ... Published, this 18. of Ianuary. 1641.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn YYright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156361:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>A REMONSTRANCE Of the preſent State of things in and about the
+City, and Parliament, ſince the <hi>King</hi> and Queenes departure to
+<hi>Hampton</hi> Court. <hi>Wherein is contained,</hi>
+               <list>
+                  <item>1. The Examination of his Majeſties Attourney Generall
+by the Houſe of Commons, about the Articles againſt the 6 Parliament men,
+with his Anſwer to every particular.</item>
+                  <item>2. How 2 boats laden with great ſaddles to be carried
+down to <hi>Kingſton,</hi> were ſtaid, and thoſe that ſhould have
+tranſported them, examined by the Parliament.</item>
+                  <item>3. A letter of dangerous conſequence, directed to
+Colo<g ref="char:EOLhyphen"/>nell <hi>Lunsford,</hi> and found ſcattered at Pauls,</item>
+                  <item>4. Seven Articles of high Treaſon againſt the ſaid
+Colo<g ref="char:EOLhyphen"/>nell <hi>Lunsford.</hi>
+                  </item>
+                  <item>5. An Order of both Houſes for the ſpeedy
+Apprehenſion of the Lord <hi>Digby,</hi> and Colonell Lunsford, for raiſing
+armes at Kingſton, to the great terror and affright of his Maieſties good
+ſubiects.</item>
+                  <item>6. The diſcovery of a Helliſh gun-powder plot in
+<hi>Ireland,</hi> laid by the Papiſts, to blow up the Proteſtant Army, at
+their firſt Arrivall: found out by Captaine <hi>Morton,</hi> who with 200 of
+the Proteſtants, went into a ſuspected Vault, fetcht out great ſtore of
+powder, and tooke away much armes and mu<g ref="char:EOLhyphen"/>nition.</item>
+               </list> Laſtly, the advice ſent from his Maieſties
+Commiſſioners, in Scotland, to both the Honourable Houſes of Parliament,
+in England, Ianuary 15. 1642. for compoſing the preſent dif<g ref="char:EOLhyphen"/>ferencies and
+diſtractions in this Kingdome. Likewiſe that Colonel <hi>Lunsford</hi> was
+taken at Sr. <hi>Iohn Thorowgoods,</hi> at <hi>Bi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſingbere,</hi> nere Windſor. in the County of
+<hi>Barkſhire.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed, this</hi> 18. <hi>of</hi> Ianuary. 1641.</p>
+            <p>London Printed for Iohn YYright.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:156361:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb facs="tcp:156361:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>The examination of his Maieſties Atturney Generall by the
+Houſe of Commons.</head>
+            <p n="1">1. WHether he contrived, framed or adviſed the Articles
+ex<g ref="char:EOLunhyphen"/>hibited in the Houſe of Lords, againſt the Lord <hi>Kim<g ref="char:EOLhyphen"/>bleton,</hi> and
+Mr. <hi>Hollis,</hi> Sir <hi>Arthur Haſterig Mr. Pym, Mr. Hamden,</hi> and
+Mr. <hi>Stroud,</hi> or whether he knew or had heard who did con<g ref="char:EOLhyphen"/>trive, frame,
+or adviſe the ſame. To which he anſwered, That he did none of theſe
+three, and if he was proved ſo to doe, he would be contented to die for
+it.</p>
+            <p n="2">2. Whether he knew the truth of thoſe Articles; To which
+he anſwered, That he knew nothing but what was ſaid to him by his Maſter
+the King.</p>
+            <p n="3">3. Whether he will make them good when he ſhall be
+called thereto? To which he anſwered, He was no way able to make them good,
+further then his ſaid Maſter ſhould enable him.</p>
+            <p n="4">4. From whome he had received them, or by whoſe advice
+he did exhibit them. To which he anſwered, That from his Maſters hands he
+received them: and by his command did exhibit them.</p>
+            <p n="5">5. What proofe and teſtimony he had to maintaine thoſe
+Ar<g ref="char:EOLhyphen"/>ticles; To which he anſwered, To which he anſwered, That he received the
+Command from his Maſter, and had no other profe or teſtimony but ſuch as
+his Maſter ſhould enable him with, And being preſſed to deale clearely,
+what teſtimony that was, He ſaid he was of his Majeſties Councell and
+therefore deſired further time to conſider what further anſwer to
+make.</p>
+            <p>On Wedneſd<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the 12
+of Ianuary, upon the report of the great Hurly-Burly, raiſed ar Kingſtone,
+by Colonel <hi>Lunsford,</hi> and the Lord <hi>George Digby,</hi> who with 300
+Troopers, and di<g ref="char:EOLhyphen"/>verſe other deſperate and ſuſpitious perſons,
+appearing in arms much affrighted the Countrey People thereabout, and bred
+great feares in the City.</p>
+            <p>There were warrants granted out to the Sergeant, to ſtay two
+Boats laden with great ſaddles, to bee carried downe to King<g ref="char:EOLhyphen"/>ſtone, and to
+bring them that tranſported them to be examined which was accordidgly
+performed.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:156361:3"/>
+            <!-- PDF PAGE 15 -->
+            <head>
+               <hi>A</hi> Letter of Conſequence, directed to Colonell
+<hi>Lunsford,</hi> ſcattered in S. <hi>Pauls,</hi> and ſince come to
+publique view.</head>
+            <opener>
+               <salute>Renowned Sir,</salute>
+            </opener>
+            <p>WEe are generally ioyfull beyond expreſſion, to heare of the
+Honour his Maieſty hath bin pleaſed to confer up<g ref="char:EOLhyphen"/>on your ſo well
+deſerving ſelfe, though wee confeſſe wee are no leſſe ſorrowfull
+for the unexpected commotion of that ungo<g ref="char:EOLhyphen"/>verned Commonalty, which have bin the
+occaſion of ſuppreſ<g ref="char:EOLhyphen"/>ſing your power,, and loſing that Prerogative and
+place of ho<g ref="char:EOLhyphen"/>nour of being Lieutenant of the Tower we make no queſtion but the
+luſtre of Knighthood which his Maieſty hath bin plea<g ref="char:EOLhyphen"/>ſed to tranſplant
+ſince upon you, will be a meanes to ſtrengthen your Authority, to the
+asſiſting of our poore Brethren there with you, of which we ſhall be
+vigilant to imploy our furthe<g ref="char:EOLhyphen"/>rance in whatſoever you ſhall be pleaſed to
+put in practice for their reliefe; and eſtabliſhing the ſupremacy of the
+church of Rome. Privacy will likewiſe be expedient, and a ſpeciall care
+ought to be had in electing ſuch as you may impoſe truſt in; you know our
+enemies, therefore I need not ſpecifie them, as for our friends, we have a
+faulkon, and pepper is very deare to us (you underſtand me) you may draw
+together ſome forces of our friends, under pretence againſt us: make your
+ſelfe as ſtrong as you may, as for the charges we will be correſpondent
+in defraying of them: if any ſcurrilous ſpirits ſhould ſcanda<g ref="char:EOLhyphen"/>lize you,
+and endeavour to defame your perſon, with oppro<g ref="char:EOLhyphen"/>bious ſpeeches, or a
+ſuſpition of ſome illegal intents, you may ſoone helpe that, for you
+are not without thoſe on your ſide who are of ſufficient ability to
+reſiſt a meane power, as for what ſhall be wanting in you, ſhall be
+made good by our endea<g ref="char:EOLhyphen"/>vours, and what you begin we will end.</p>
+            <p>
+               <pb facs="tcp:156361:3"/>
+               <!-- PDF PAGE 15 -->As for the preſent, we
+have beene lately ſcattered by reaſon of a ſudden approach of the Scots
+upon us, ſo that we loſt ſome of our Officers, and ſome thouſand
+ſouldiers. Captaine <hi>Denis Carley</hi> dyed valorouſly, and Captaine
+<hi>Thurlougking,</hi> with Lieu<g ref="char:EOLhyphen"/>tenant <hi>Matchet,</hi> whoſe names with us
+ſhall be eternized, who thoſe rather to dye valiantly in the defence of the
+Church of <hi>Rome,</hi> then to yeeld themſelves priſoners to the
+Heret<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cke Scots; I will ceaſe to
+ſpeake further of them, whom we daily lament: We are gathering up our
+ſcattered forces, and make no queſtion but to be of ability to give them
+battell ſpeedily, our eyes are up<g ref="char:EOLhyphen"/>on you in behalfe of our brethren, we know
+there is no want of valour, power, wiſedom, aſſiſtance, or whatſoever
+may be availe<g ref="char:EOLhyphen"/>able for the deſigne in you or your friends: be valiant for the
+truth then: in ſo doing, you ſhall joy us, deliver our brethren, and prove
+your ſelfe an everlaſting, reall, and conſtant friend to the Church of
+<hi>Rome.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>G. Sartwell, Redmond,</hi> your friends, <hi>E.
+T. VV. S. M. O.</hi> joyne.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>Die Jovis 13. Januarii. 1641.</head>
+            <p>WHereas information hath beene given to the Parliament, that the
+Lord <hi>Digby</hi> (ſon to the Earle of <hi>Briſtol</hi>) and Colonel
+<hi>Lunsford,</hi> with others, have gathered Troopes of Horſe, and have
+appea<g ref="char:EOLhyphen"/>red in a warlike manner at <hi>Kingſtone</hi> upon Thames in the County
+of <hi>Surrey,</hi> (where the Magazine of Armes for that part of the County
+lyes) to the terrour and affright of his Majeſties good Subjects, and
+di<g ref="char:EOLhyphen"/>sturbance of the publike weale of the Kingdome.</p>
+            <p>It is this day ordered by the Lords and Commons in Parliament,
+that the Sheriffes of the ſeverall Counties of <hi>England</hi> and
+<hi>Wales,</hi> calling to their aſſistance the Iustices of the Peace, and
+the trained Bands of thoſe ſeverall Counties (or ſo many of them as
+ſhall be neceſſary for the ſervice) ſhall ſuppreſſe all
+unlawfull Aſſemblies gathered together to the diſturbance of the publike
+peace of the Kingdome in their ſeverall Coun<g ref="char:EOLhyphen"/>ties reſpectivelye and that
+they take care to ſcoure the ſaid Counties, and all the Magazines in
+them.</p>
+            <p>The manner how the Gun-powder Plot in <hi>Ireland</hi> was
+layd.</p>
+            <p>THe Rebels in <hi>Ireland,</hi> for bringing their bloody and
+Helliſh deſignes to perfection, had provided Shovels, Spades, pick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acks, <pb facs="tcp:156361:4"/>
+               <!-- PDF PAGE 16 -->
+and many other inſtruments for the ſaid bloody deſigne and
+about the number of 400. ſouldiers, and there with all ſpe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſet them to work, which was to
+undermin the ground for th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpace
+of two miles, and layd there great ſtore of Gunpowder and ſo by that meanes
+to blow up the aforenamed Lords in their marching over: this being done, the
+Rebels intended to march a<g ref="char:EOLhyphen"/>gainſt the City of Dublin, and to deſtroy it by
+wild-fire: b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they were prevented,
+and their helliſh deſignes diſcovered by a miraculous meanes.</p>
+            <div type="subpart">
+               <head>The manner how this Plot was diſcovered.</head>
+               <p>COlonell <hi>Morton</hi> marching before the proteſtant
+Army, and the two other Lords bringing on their forces with puiſſant
+courage, they being come within the ſpace of ſix miles of Dub<g ref="char:EOLhyphen"/>lin, Colonel
+<hi>Morton</hi> feeling the ground quiver under his feet, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeeming like dry ground, cauſed the
+Army to ſtand, and ſaid, that he feared that there was treachery intended
+againſt them, be therefore immediately tooke one of their ſtrongeſt
+pikes, and thruſt it into the ground, to ſee whether it were hollow or not,
+the pike running in with ſuch great force, and he laying no ſtrength to it,
+immediately cauſed ſome of his ſouldiers to dig to ſee what Plot there
+was intended againſt them, and digging a yard deepe, they eſpyed a vault,
+and great ſtore of Gunpowder, whereupon the aforeſaid Colonel cauſed them
+to retreat backe, fearing that they had come too far, but not knowing how to
+diſ<g ref="char:EOLhyphen"/>cover the ſame: unleſſe that ſome man would venture his iife to
+goe in: where preſently a young man ſtept forth, and ſpake to them as
+followeth. Noble Captaine, to doe you and my Coun<g ref="char:EOLhyphen"/>try good, I will venture my
+life to find out this helliſh plot, then they let him downe, who preſently
+eſpyed ſix men, they immedi<g ref="char:EOLhyphen"/>ately queſtioning of him, he anſwered that
+he came from Gene<g ref="char:EOLhyphen"/>rall <hi>Negle,</hi> chiefe Generall for Rebels, to helpe
+them in their good enterpriſe, who being thereabout the ſpace of two dayes,
+they reſolved that onely one of them ſhould tarry to bring this to
+paſſe, which was to give fire to the Gunpowder, for to blow up the
+Proteſtant Army, the reſt ſhould goe forth, and retyre backe to the
+Rebels: therefore they concluded together to dra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <pb facs="tcp:156361:4"/>
+                  <!-- PDF PAGE 16 -->
+cuts which of them ſhould tarry, which as the Lord would have
+it, it fell to his lot: and they being gone, he ſeeing the place which they
+came out at, came preſently to the ſaid place, and o<g ref="char:EOLhyphen"/>pened the doore, which
+was of wood, and covered with turfe, in ſuch a manner, that no man could
+perceive whether there were a<g ref="char:EOLhyphen"/>ny doore or not: and comming forth, he related to
+Captaine <hi>Morton</hi> how it was. Who preſently ſet a ſtrong guard
+about the ſaid vault, and then 2000. of the Proteſtants went in, and
+fetch<g ref="char:EOLhyphen"/>ed all the powder out, and great ſtore of Ammunition they have alſo
+taken.</p>
+            </div>
+            <div type="subpart">
+               <head>Advice ſent from his Majeſties Commiſſioners in
+<hi>Scotland,</hi> to both Houſes of Parliament, <hi>January 15.
+1642.</hi>
+               </head>
+               <p>OUr Treaty concerning the Iriſh affaires, being ſo often
+interrupted by the emergent diſtractions, gives us occaſi<g ref="char:EOLhyphen"/>on earneſtly to
+deſire your Lordſhips, and theſe Noble Gen<g ref="char:EOLhyphen"/>tlemen of the Houſe of
+Commons; for to preſent to the Ho<g ref="char:EOLhyphen"/>nourable Houſes of Parliament.</p>
+               <p>That we having taken into conſideration, the manifold
+Ob<g ref="char:EOLhyphen"/>ligations of the Kingdome of Scotland to our Native Gracious Soveraigne, his
+perſon and Government, conſidered and mul<g ref="char:EOLhyphen"/>tiplied to the great and reſent
+favours beſtowed by his Majeſtie on that Kingdome, at his laſt being
+there; and ſetling the trou<g ref="char:EOLhyphen"/>bles thereof; and conſidering the mutuall
+intereſt of the King<g ref="char:EOLhyphen"/>domes, in the welfare and proſperrty of each other,
+acknow<g ref="char:EOLhyphen"/>ledged, and eſtabliſhed in the late Treaty, and finding our ſelues
+warranted and oblieged by all meanes to labour to keepe a right underſtanding
+betwixt the Kings Majeſtie and his people, to confirme that Brotherly
+affecton began betwixt the two Nations, to advance their Unity, by all ſuch
+wayes as may tend to the glo<g ref="char:EOLhyphen"/>ry of God, and Peace of the Church and State of
+both King<g ref="char:EOLhyphen"/>domes, to tender thanks to the Parliament of England, for their
+aſſiſtance given to the Kingdome of Scotland, in ſetling the late
+troubles thereof wherein, next to the Providence of God, and the Kings
+Majeſtie Juſtice and goodneſſe they do acknowledge, themſelves moſt
+beholding to the mediation, and Brotherly kindneſſe of the Kingdome of
+England, and likewiſe to proffer <pb facs="tcp:156361:5"/>
+                  <!-- PDF PAGE 17 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb facs="tcp:156361:5"/>
+                  <!-- PDF PAGE 17 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb facs="tcp:156361:6"/>
+                  <!-- PDF PAGE 18 -->
+our ſervice for removing all Iealouſies and miſtakings
+which may ariſe betwixt the Kings Majeſtie, and his Kingdome, and our
+beſt endeavours for the eſtabliſhment of the affaires, and quiet of the
+ſame.</p>
+               <p>We doe therefore in name of the Parliament and Kingdome o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scotland acknowledge our ſelves, next
+to the providence of God, and in his Majeſties juſtice and goodneſſe
+moſt beholding to the meditation and Brotherly kindneſſe of the Kingdome
+of Eng<g ref="char:EOLhyphen"/>land in many reſpect, and Eſpecially in Condeſcending to the Kings
+Majeſties downe comming to Scotland in the middeſt of their great affaires
+whereof we have taſted the ſweet and comfor<g ref="char:EOLhyphen"/>table fruits, and doe heartily
+wiſh the like happineſſe to this Kingdome<g ref="char:punc">▪</g>
+               </p>
+               <p>And as we are hearty ſorry to finde our hopes thereof
+defer<g ref="char:EOLhyphen"/>red, by the preſent diſtractions daily growing heare to greater
+height, And out of the ſenſe thereof, have taken the boldneſſe to
+ſend our humble and faithfull advice to the Kings moſt Excellent Majeſtie
+for the remeding of the ſame, to the juſt ſatisfaction of his people; So
+out of our duty to his Majeſtie and to teſtifie our brotherly affection to
+this Kingdome, and acquit our ſelves of the truſt impoſed upon us.</p>
+               <p>We doe moſt earneſtly beſeech the Honourable Houſes in
+the Depth of their wiſdome, to think timouſly upon the faireſt and
+fitteſt wayes of Compoſing all preſent difference; To the glory of God,
+the good of the Church, and State of both King<g ref="char:EOLhyphen"/>domes, and to his Majeſties
+honour and Contentment wherein if our faithfull endeavours may be any wayes
+uſefull, we ſhall be moſt ready at all occaſions to contribute the
+ſame.</p>
+               <closer>
+                  <dateline>
+                     <date>15 <hi>Ianuary</hi>
+1642.</date>
+                  </dateline> 
+                  <signed>Ia. Primroſe.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
